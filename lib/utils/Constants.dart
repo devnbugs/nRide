@@ -18,11 +18,11 @@ const DOMAIN_URL = 'https://nride.rabyte.com.ng'; // Don't add slash at the end 
 
 //region OneSignal Keys
 //You have to generate 2 onesignal account one for rider and one for driver
-const mOneSignalAppIdDriver = 'ADD YOUR DRIVER APP KEY';
-const mOneSignalRestKeyDriver = 'ADD YOUR DRIVER REST API KEY';
+const mOneSignalAppIdDriver = 'ec2e976c-76c1-4ff9-9466-6dcf6a4014cb';
+const mOneSignalRestKeyDriver = 'os_v2_app_5qxjo3dwyfh7tfdgnxhwuqauzniq4hbcqlvucsv5q4sth4lkupimltdx34ycna2v5qgwyuuba5ebbba6773xuigykq4ywl4plqhapoy';
 
-const mOneSignalAppIdRider = 'ADD YOUR RIDER APP KEY';
-const mOneSignalRestKeyRider = 'ADD YOUR RIDER REST API KEY';
+const mOneSignalAppIdRider = 'a947f79e-25e5-4332-b989-db1b21237af8';
+const mOneSignalRestKeyRider = 'os_v2_app_vfd7phrf4vbtfomj3mnsci327dri76alpohupheb5xkciv55cxy332wbki6mj5we2rpj6tshdz6sjtewdngyatmlfouwkrwur7i3rxa';
 //endregion
 
 //region Currency & country code
