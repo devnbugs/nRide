@@ -1,9 +1,9 @@
 name: nRide
-description: General Booking Solution.
+description: A new Riding Solution
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-version: 25.04.11+1
+version: 1.0.0+1
 
 environment:
   sdk: ">=3.2.0 <4.0.0"
@@ -74,10 +74,10 @@ dependencies:
   firebase_storage: ^12.1.1
   firebase_database: ^11.0.3
   paginate_firestore: ^1.0.3+1
-  paginate_firestore:
-    path: ./lib/my_packages/paginate_firestore-master
-  flutter_paystack:
-    path: ./lib/my_packages/flutter_paystack-1.0.7
+#  paginate_firestore:
+#    path: ./lib/my_packages/paginate_firestore-master
+#  flutter_paystack:
+#    path: ./lib/my_packages/flutter_paystack-1.0.7
   cloud_firestore: ^5.3.0
 
   # STATE MANAGEMENT
@@ -89,7 +89,7 @@ dependencies:
   flutter_stripe: ^11.0.0
   flutter_paystack:
     git:
-      url: https://github.com/devnbugs/flutter_paystack.git
+      url: https://github.com/appmeetmighty/flutter_paystack.git
 #    path: ./lib/package/flutter_paystack-master
 #  flutter_paystack: ^1.0.7
   flutter_braintree: ^4.0.0
